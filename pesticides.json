@@ -1,0 +1,53 @@
+{
+  "Corn___Common_Rust": [
+    "Apply Mancozeb or Propiconazole",
+    "Use resistant varieties."
+  ],
+  "Corn___Gray_Leaf_Spot": [
+    "Use Strobilurin fungicides",
+    "Rotate crops to reduce disease pressure."
+  ],
+  "Corn___Northern_Leaf_Blight": [
+    "Use Azoxystrobin + Propiconazole",
+    "Maintain good air circulation."
+  ],
+  "Potato___Early_Blight": [
+    "Use Chlorothalonil or Mancozeb",
+    "Avoid overhead irrigation."
+  ],
+  "Potato___Late_Blight": [
+    "Use Metalaxyl or Cymoxanil-based sprays",
+    "Remove infected leaves."
+  ],
+  "Rice___Leaf_Blast": [
+    "Spray Tricyclazole or Isoprothiolane",
+    "Avoid excessive nitrogen."
+  ],
+  "Rice___Brown_Spot": [
+    "Use Mancozeb or Thiophanate-methyl",
+    "Apply balanced fertilizer."
+  ],
+  "Rice___Neck_Blast": [
+    "Apply Tricyclazole",
+    "Maintain proper spacing."
+  ],
+  "Wheat___Yellow_Rust": [
+    "Spray Tebuconazole",
+    "Use resistant varieties."
+  ],
+  "Wheat___Brown_Rust": [
+    "Apply Propiconazole",
+    "Remove volunteer plants."
+  ],
+  "sugarcane/Bacterial Blight": [
+    "Use Copper oxychloride",
+    "Destroy infected clumps."
+  ],
+  "sugarcane/Red Rot": [
+    "Use Carbendazim",
+    "Avoid ratooning diseased crops."
+  ],
+  "Healthy": [
+    "No pesticide needed. Maintain good field hygiene."
+  ]
+}
