@@ -3,7 +3,6 @@ AI-powered emergency response and hospital preparedness system
 
 1. Introduction
 Asgriscan AI is an intelligent emergency response system designed to improve ambulance dispatch efficiency, optimize travel routes, and ensure early hospital preparedness using real-time data and artificial intelligence.
-
 The system focuses on reducing human dependency in emergency coordination by automating decision-making processes, thereby minimizing response delays and improving patient outcomes.
 
 2. Problem Statement
